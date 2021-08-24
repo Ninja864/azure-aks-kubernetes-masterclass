@@ -2,6 +2,7 @@
 
 [![Image](https://stacksimplify.com/course-images/azure-kubernetes-service-with-azure-devops-and-terraform-bestseller.png "Azure Kubernetes Service with Azure DevOps and Terraform")](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?referralCode=2499BF7F5FAAA506ED42)
 
+GIT Access Token : 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
 
 ## Course Modules
 
